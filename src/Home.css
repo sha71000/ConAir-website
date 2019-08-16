@@ -1,0 +1,33 @@
+.home{
+    margin-top: 200px;
+    width: 100%;
+    
+}
+
+h2{
+    width: 10rem;
+   
+    border-bottom: 2px solid black;
+
+}
+.innerdiv{
+
+    background-color: rgb(193, 194, 199);
+    padding: 20px;
+    
+    }
+    
+.video{
+    background-color: rgba(17, 59, 136, 0.329);
+    width: 100%;
+    padding:20px;
+    
+    height: 750px;
+
+    }
+.map2{
+    padding:50px;
+    margin-left: 22%;
+    border: 3px solid white;
+
+    }

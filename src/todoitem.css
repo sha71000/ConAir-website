@@ -1,0 +1,12 @@
+.itemcon{
+    padding:15px;
+    text-align: left;
+}
+
+.removeTodo{
+    margin-right: 10px;
+    background-color: rgb(219, 148, 148);
+    border: 2px solid red;
+    
+    
+}

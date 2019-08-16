@@ -1,0 +1,28 @@
+.dial{
+    width: 350px;
+    height: 400px;
+    position: fixed;
+    align-items: center;
+    background-color:rgb(197, 174, 73);
+    border:2px solid black;
+    top:35%;
+    left:35%;
+    position: absolute;
+    z-index: 99;
+
+}
+textarea{
+    margin-left: 8%;
+}
+
+button{
+    width: 70px;
+    height:40px;
+    margin-left:40px;
+    border-radius: 50%;
+    background-color: yellowgreen;
+    border: none;
+}
+label{
+    margin-left:10px;
+}

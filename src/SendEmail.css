@@ -1,0 +1,16 @@
+.Sendy{
+    float: right;
+    height:60px;
+    width:150px;
+    background-color:rgba(230, 194, 35, 0.774);
+    border: 2px solid black;
+    border-radius: 45%;
+    margin-right: 2%;
+    
+
+
+
+}
+button{
+    font-size: 1rem;
+}
