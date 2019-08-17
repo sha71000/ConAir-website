@@ -18,8 +18,8 @@ export default class TodoItem extends React.Component{
                 <button className='removeTodo' onClick={(e)=>this.removetodo(this.props.id)}>remove</button>{this.props.todo.text}
             </div>
 
-        );
-    }
+        
+           );   }
 
 }
 
